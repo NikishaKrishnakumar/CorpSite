@@ -55,6 +55,9 @@
                                         <li>
                                             <a href="#">Hyderabad</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Bangalore</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
